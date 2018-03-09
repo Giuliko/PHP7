@@ -4,6 +4,6 @@
 
 	echo "Jor-el e Kal-el";
 
-	echo "estudar";
+	echo "fala e estudar";
 
 ?>
