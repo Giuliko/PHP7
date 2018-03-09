@@ -4,4 +4,6 @@
 
 	echo "Jor-el e Kal-el";
 
+	echo "Fala";
+
 ?>
